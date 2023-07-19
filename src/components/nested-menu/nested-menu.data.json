@@ -1,0 +1,13 @@
+[
+  {
+    "id": "homepage",
+    "name": "Homepage",
+    "subpages": [
+      {
+        "id": "sub-homepage",
+        "name": "Sub Homepage",
+        "path": "/homepage"
+      }
+    ]
+  }
+]
